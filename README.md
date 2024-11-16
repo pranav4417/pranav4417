@@ -27,8 +27,7 @@ I am always eager to **help** and **volunteer** my time for any project that off
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pranav4417&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-# 📊 My Contributions:
-![snake gif](https://github.com/pranav4417/pranav4417/blob/output/github-snake-dark.svg)
+
 
 
 ---
