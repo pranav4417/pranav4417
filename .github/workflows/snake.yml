@@ -3,27 +3,27 @@ name: Generate Snake Animation
 on:
   push:
     branches:
-      - main
+      - main  # or master, depending on your branch name
   pull_request:
     branches:
-      - main
+      - main  # or master
 
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-    - name: Generate GitHub contribution snake
-      uses: Platane/snk@v2
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate GitHub contribution snake
+        uses: Platane/snk@v1  # using v1 here
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Commit and push snake animation
-      run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
-        git add .
-        git commit -m "Generate snake animation"
-        git push
+      - name: Commit and push snake animation
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "Generate snake animation"
+          git push
