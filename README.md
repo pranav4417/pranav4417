@@ -1,16 +1,35 @@
-## Hi there 👋
+## Kandakurthi Pranav
 
-<!--
-**pranav4417/pranav4417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**"A person who never made a mistake never tried anything new."**
 
-Here are some ideas to get you started:
+🌍 **I'm based in Bangalore, India**  
+🤝 **Currently learning:** Data Science, Machine Learning, Deep Learning, Full Stack Development  
+💬 **Connect with me:** [Personal Website](#) (Only for desktop devices)  
+⚡ **Completed over 30+ data science projects**  
+⚡ **Always open to collaborating with others**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚒️ Languages, Frameworks, and Tools ⚒️
+
+- **Programming Languages**: Python, JavaScript, etc.  
+- **Frameworks**: React, Flask, etc.  
+- **Tools**: Jupyter Notebook, Git, etc.
+
+---
+
+### ⚡ GitHub Stats ⚡
+
+![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranav4417&show_icons=true&theme=radical)
+
+---
+
+### 🐍 My Contributions 🐍
+
+![Snake Animation](https://github.com/pranav4417/pranav4417/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### Pinned Repositories
+
+[**Basic Music Player in Android using Java**](https://github.com/pranav4417/Pr-s-Music)
